@@ -1,4 +1,4 @@
-# Fast React Pizza Co.
+# Moh's Fast React Pizza Co.
 
 A modern pizza ordering web application built with React, Redux Toolkit, React Router, and Tailwind CSS. This project demonstrates a full-stack-like experience with a focus on state management, routing, and a beautiful UI.
 
